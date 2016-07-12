@@ -22,5 +22,6 @@
 		<div>
 			<a href="https://www.google.com" target="_blank">Go to Google.com!</a>
 		</div>
+		<img src="images/eevee.jpg" alt="eevee" />
 	</body>
 </html>
