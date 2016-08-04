@@ -34,6 +34,21 @@
 		<title>My Bootstrapping Page!</title>
 	</head>
 	<body>
-		HAI! :P
+		<!-- begin header -->
+		<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<h1>My Bootstrapping Page!</h1>
+					</div>
+				</div>
+			</div>
+		</header>
+		<main>
+
+		</main>
+		<footer>
+
+		</footer>
 	</body>
 </html>
