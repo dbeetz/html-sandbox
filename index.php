@@ -34,6 +34,7 @@
 		<title>My Bootstrapping Page!</title>
 	</head>
 	<body>
+
 		<!-- begin header -->
 		<header>
 			<div class="container">
@@ -44,11 +45,44 @@
 				</div>
 			</div>
 		</header>
+
+		<!-- begin main content -->
 		<main>
-
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						side panel!
+					</div>
+					<div class="col-md-9">
+						content panel!
+					</div>
+				</div>
+					<div class="row">
+						<div class="col-md-4">
+							column one
+						</div>
+						<div class="col-md-4">
+							column two
+						</div>
+						<div class="col-md-4">
+							column three
+						</div>
+					</div>
+				</div>
 		</main>
-		<footer>
 
+		<!-- begin footer -->
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						footer column one
+					</div>
+					<div class="col-md-6">
+						footer column two
+					</div>
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>
