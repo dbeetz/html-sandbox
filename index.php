@@ -2,74 +2,38 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<!-- Adding Custom CSS -->
-		<link href="css/style.css" rel="stylesheet" type="text/css"/>
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-		<!-- Adding Custom JavaScript-->
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+		<!-- Add other CSS files here -->
+
+		<!-- Add custom CSS here -->
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<!-- jQuery -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+		<!-- Add your custom JS files here -->
 		<script src="js/custom.js" type="text/javascript"></script>
 
-		<!-- Page Title -->
-		<title>My Web Page</title>
+		<title>My Bootstrapping Page!</title>
 	</head>
 	<body>
-
-		<!-- Begin Header -->
-		<header>
-			<h1>Hay World!</h1>
-		</header>
-
-		<!-- Start Main Content Here -->
-		<main>
-			<p id="first-paragraph">Lorem <strong>ipsum</strong> dolor sit amet, <em>consectetur</em> adipiscing elit. Nullam placerat metus a justo gravida ultrices. Pellentesque quis odio at justo tincidunt tempus a ut diam. Ut tempor leo sit amet sem bibendum, quis tempor sapien lacinia. Mauris imperdiet lacus tempus, placerat nisl euismod, tristique magna. Nunc vitae sagittis eros. Fusce luctus aliquet volutpat. Integer ac lorem tincidunt, posuere justo id, semper arcu. Vestibulum vestibulum pretium posuere. Sed eleifend, lorem ut aliquam ullamcorper, odio neque egestas libero, et fringilla elit lacus eu sem.</p>
-			<h2 class="handsome-title red-text">About Me</h2>
-			<p>Fusce commodo hendrerit tempus. Nullam sit amet velit neque. Mauris nec interdum felis. Vestibulum ultrices placerat libero, at scelerisque dolor pellentesque non. Nam varius vitae erat ut pellentesque. Aliquam felis mi, suscipit gravida dapibus et, luctus eu mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eget rhoncus neque. Vivamus ut tortor quis neque ornare consequat non sed diam. Donec eget est scelerisque, ornare mauris non, elementum nibh. Etiam posuere ligula tortor, ac interdum massa suscipit at. Etiam porttitor eu turpis eu feugiat. Donec viverra non neque et elementum. In eleifend turpis sit amet sollicitudin dignissim. Maecenas placerat, orci nec condimentum ultricies, felis ligula accumsan velit, sollicitudin commodo odio tortor at sapien.</p>
-
-			<!-- Unordered List -->
-			<ul>
-				<li>item 1</li>
-				<li>item 2</li>
-				<li>item 3</li>
-			</ul>
-
-			<!-- Ordered List -->
-			<ol>
-				<li>item 1</li>
-				<li>item 2</li>
-				<li>item 3</li>
-			</ol>
-			<div>
-
-				<!-- Insert Google Link -->
-				<a href="https://www.google.com" target="_blank">Go to Google.com!</a>
-			</div>
-
-			<!-- Insert Eeveehehehee -->
-			<img src="images/eevee.jpg" alt="eevee" />
-
-			<!-- Begin Table -->
-			<table>
-				<tr>
-					<th>
-						table cell 1
-					</th>
-					<th>
-						table cell 2
-					</th>
-				</tr>
-				<tr>
-					<td>
-						table cell 3
-					</td>
-					<td>
-						table cell 4
-					</td>
-				</tr>
-			</table>
-		</main>
-		<!-- Begin Footer -->
-		<footer>
-			&copy; 2016
-		</footer>
+		HAI! :P
 	</body>
 </html>
