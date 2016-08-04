@@ -33,43 +33,47 @@
 
 		<title>My Bootstrapping Page!</title>
 	</head>
-	<body>
+	<body class="sfooter">
 
-		<!-- begin header -->
-		<header>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h1>My Bootstrapping Page!</h1>
-					</div>
-				</div>
-			</div>
-		</header>
+		<!-- begin sticky footer content -->
+		<div class="sfooter-content">
 
-		<!-- begin main content -->
-		<main>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3">
-						side panel!
-					</div>
-					<div class="col-md-9">
-						content panel!
-					</div>
-				</div>
+			<!-- begin header -->
+			<header>
+				<div class="container">
 					<div class="row">
-						<div class="col-md-4">
+						<div class="col-md-12">
+							<h1>My Bootstrapping Page!</h1>
+						</div>
+					</div>
+				</div>
+			</header>
+
+			<!-- begin main content -->
+			<main>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+							side panel!
+						</div>
+						<div class="col-md-9">
+							content panel!
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-4">
 							column one
 						</div>
-						<div class="col-md-4">
+						<div class="col-xs-4">
 							column two
 						</div>
-						<div class="col-md-4">
+						<div class="col-xs-4">
 							column three
 						</div>
 					</div>
 				</div>
-		</main>
+			</main>
+		</div>
 
 		<!-- begin footer -->
 		<footer>
