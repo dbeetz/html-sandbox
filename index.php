@@ -61,13 +61,13 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-4">
+						<div class="col-md-4">
 							column one
 						</div>
-						<div class="col-xs-4">
+						<div class="col-md-4">
 							column two
 						</div>
-						<div class="col-xs-4">
+						<div class="col-md-4">
 							column three
 						</div>
 					</div>
