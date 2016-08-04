@@ -26,7 +26,7 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-.col-xs-4 {
+.col-md-4 {
 	height: 20rem;
 	background-color: violet;
 	border: solid blue;
